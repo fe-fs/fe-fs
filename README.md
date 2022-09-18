@@ -24,7 +24,7 @@ My name is Fernanda Silva! DEV & CGI ARTIST</h1>
 <br>
 
 - 🔭 I’m currently working on ... NICE projects!
-- 🌱 I’m currently learning ... React @_@= | three.js *.* | Unreal o.O
+- 🌱 I’m currently learning ... React @_@= | three.js ^.^ | Unreal o.O
 - 💬 Ask me about 3D Modeling | blender | 3D print | education with code
 
 
