@@ -1,5 +1,8 @@
 <h1 style="font-family:montserrat;">Hi there 👋 <br>
 My name is Fernanda Silva! DEV & CGI ARTIST</h1>
+<h3> 
+Computer Programming & Analysis - Valencia College - Florida | USA<br>
+Digital Entertainment & Game Design - University of Vale of Itajai - Santa Catarina | BR</h3>
 
 <div>
 <a href=https://www.tiktok.com/@fernandafefs target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
